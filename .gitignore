@@ -1,0 +1,6 @@
+bin/*
+include/*
+lib/*
+local/*
+state.txt
+options.json
